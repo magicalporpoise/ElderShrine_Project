@@ -1,0 +1,1 @@
+if not instance_exists(oMenuConductor) then instance_create_layer(0, 0, 0, oMenuConductor)
